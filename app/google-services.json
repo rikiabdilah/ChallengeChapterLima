@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "757114805796",
+    "project_id": "moviesapp-fb8ff",
+    "storage_bucket": "moviesapp-fb8ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757114805796:android:cc4e4e6557528962d502b1",
+        "android_client_info": {
+          "package_name": "com.example.challengechapterlima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757114805796-snctjs0k9keo6sgrlcbqedu1baqbj534.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.challengechapterlima",
+            "certificate_hash": "9396ded31c41044d554fe83ed11fab0e8c41812d"
+          }
+        },
+        {
+          "client_id": "757114805796-rf2di2j0ois22puc9kser5mb891bbmno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpuScTkZMRUodyGHymOe76ugm7qcmI4yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757114805796-rf2di2j0ois22puc9kser5mb891bbmno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

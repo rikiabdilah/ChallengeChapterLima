@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChallengeChapterLima</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Fragment Kosong</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="login">Login</string>
+    <string name="belum_punya_akun">Belum punya akun</string>
+    <string name="masukkan_tanggal_lahir">Masukkan Tanggal Lahir</string>
+    <string name="masukkan_nama_lengkap">Masukkan Nama Lengkap</string>
+    <string name="masukkan_email_baru">Masukkan Email Baru</string>
+    <string name="profile">Profile</string>
+    <string name="update">Update</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+    <string name="masukkan_email_register">Masukkan Email</string>
+    <string name="masukkan_password_register">Masukkan Password</string>
+    <string name="ulangi_password">Ulangi Password</string>
+    <string name="register_reg">Register</string>
+</resources>
